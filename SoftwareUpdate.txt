@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
