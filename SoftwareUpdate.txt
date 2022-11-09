@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
