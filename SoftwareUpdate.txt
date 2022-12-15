@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
