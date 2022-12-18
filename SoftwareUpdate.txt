@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
