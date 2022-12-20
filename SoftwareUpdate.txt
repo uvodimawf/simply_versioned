@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+OpenVino 2024.0.0 (#8726)
