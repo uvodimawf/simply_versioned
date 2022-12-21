@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
