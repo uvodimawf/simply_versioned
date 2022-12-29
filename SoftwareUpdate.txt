@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
