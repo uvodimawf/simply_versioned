@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+fix yolo classify model loading error (#9196)
