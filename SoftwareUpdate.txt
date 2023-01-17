@@ -1,1 +1,1 @@
-add yolov10
+Fixed RTDETR GFLOPs bug (#7309)
