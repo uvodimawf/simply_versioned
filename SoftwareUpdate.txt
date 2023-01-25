@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
