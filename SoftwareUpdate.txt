@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
