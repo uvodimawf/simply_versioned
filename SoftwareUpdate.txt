@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
