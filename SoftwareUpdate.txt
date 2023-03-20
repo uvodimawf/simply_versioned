@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
