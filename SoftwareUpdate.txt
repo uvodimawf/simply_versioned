@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Update OpenVINO INT8 export (#7515)
