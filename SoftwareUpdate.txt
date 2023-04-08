@@ -1,1 +1,1 @@
-ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
