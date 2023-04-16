@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
