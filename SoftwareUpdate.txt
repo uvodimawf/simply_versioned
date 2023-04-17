@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Auto-format by https://ultralytics.com/actions
