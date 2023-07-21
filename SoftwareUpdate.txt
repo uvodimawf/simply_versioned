@@ -1,1 +1,1 @@
-Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
