@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Add Neural Magic Docs integrations page (#7234)
