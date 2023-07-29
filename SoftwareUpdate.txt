@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+fix for KeyError: 'epoch' (#48)
