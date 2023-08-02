@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
