@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Add OBB benchmarks to CI (#7777)
