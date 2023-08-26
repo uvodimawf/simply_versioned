@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+Update neural-magic.md (#7347)
