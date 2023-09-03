@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Fix OpenVINO links (#7930)
