@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Update OpenVINO INT8 export (#7515)
