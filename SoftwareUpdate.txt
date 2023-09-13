@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Add YOLOv8 LibTorch C++ inference example (#7090)
