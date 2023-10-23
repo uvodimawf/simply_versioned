@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Add YOLOv8 LibTorch C++ inference example (#7090)
