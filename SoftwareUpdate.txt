@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
