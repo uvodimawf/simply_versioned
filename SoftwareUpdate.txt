@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
