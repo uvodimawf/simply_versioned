@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Add visuals in guides/distance-calculation.md (#7876)
