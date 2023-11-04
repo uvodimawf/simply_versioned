@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add Neural Magic Docs integrations page (#7234)
