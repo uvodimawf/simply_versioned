@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Update Docs language dropdown height (#6927)
