@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Fix docker.yaml double-quote version bug (#7452)
