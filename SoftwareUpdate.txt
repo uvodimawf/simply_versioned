@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Fix Neural Magic links (#9144)
