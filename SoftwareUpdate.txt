@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+OBB: Fix when training on zip data (#8680)
