@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+added badges (#45)
