@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
