@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
