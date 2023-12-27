@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+fix yolo classify model loading error (#9196)
