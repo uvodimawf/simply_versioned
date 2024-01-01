@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Elaborate Train and Predict mode docs arguments (#8137)
