@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
