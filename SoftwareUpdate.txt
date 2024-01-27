@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
