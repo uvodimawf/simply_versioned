@@ -1,1 +1,1 @@
-fix predict with class filter
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
