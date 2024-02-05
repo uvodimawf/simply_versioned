@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
