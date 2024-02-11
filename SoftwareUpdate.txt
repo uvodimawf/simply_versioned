@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
