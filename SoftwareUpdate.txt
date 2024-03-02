@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
