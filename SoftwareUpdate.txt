@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Avoid creating -hub dir without processing images (#8334)
