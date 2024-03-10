@@ -1,1 +1,1 @@
-Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
