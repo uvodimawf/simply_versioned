@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
