@@ -1,1 +1,1 @@
-ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
