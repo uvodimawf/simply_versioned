@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+YOLOv8 INT8 TFLite Inference Example (#7317)
