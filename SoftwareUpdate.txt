@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
