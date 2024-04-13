@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+ultralytics 8.1.27 batched tracking fixes (#8842)
