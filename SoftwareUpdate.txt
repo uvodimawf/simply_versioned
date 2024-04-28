@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Fix PNNX ubuntu -> linux bug (#7050)
