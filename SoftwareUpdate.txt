@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
