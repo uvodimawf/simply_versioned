@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Update pyproject.toml and Docs (#7274)
