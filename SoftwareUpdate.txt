@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Fix docs H1 tags (#7182)
