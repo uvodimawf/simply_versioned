@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
